@@ -12,6 +12,7 @@ The work relies on the integration of deep learning and computer vision. Deep le
 Computer vision, working in tandem with deep learning, helps to extract contex-tually relevant information from video frames, forming the basis for traffic anal-ysis. By applying computer vision techniques, visual data is converted into valu-able insights, so that the traffic patterns, vehicle behavior, and presence of emer-gency vehicles may be analysed. The synergy between deep learning and com-puter vision enables the system to intelligently and adaptively respond to changing traffic dynamics, facilitating efficient vehicle detection and dynamic traffic flow optimization through real-time traffic signal adjustments informed by computer vision insights.
 
 **Example:**
+
 ![Picture1](https://github.com/anuvindmp/Intelligent-traffic-control-system/assets/112715229/420d08e7-6f59-48fd-b0a2-86672adad9cf)
 
 ![Picture2](https://github.com/anuvindmp/Intelligent-traffic-control-system/assets/112715229/39b8013a-3d9e-4f8a-a9f9-755f8906ec38)
