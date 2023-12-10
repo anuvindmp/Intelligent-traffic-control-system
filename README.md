@@ -18,3 +18,10 @@ Computer vision, working in tandem with deep learning, helps to extract contex-t
 ![Picture2](https://github.com/anuvindmp/Intelligent-traffic-control-system/assets/112715229/39b8013a-3d9e-4f8a-a9f9-755f8906ec38)
 
 **Emergency Vehicles and Dynamic-lane prioritization**
+The work uniquely utilizes advanced technologies to detect and prioritize emer-gency vehicles with activated sirens, like ambulances and firetrucks. The vehi-cles are identified in real-time traffic scenarios using visual and auditory cues. The innovation lies in merging YOLO's object detection with sound signa-ture recognition, specifically sirens. Training the model to recognize the appear-ance of emergency vehicles with sirens on allows it to distinguish them from reg-ular traffic, comprehensively detecting them in dynamic urban settings. When an emergency vehicle with an activated siren is detected, the proposed system takes immediate action, prioritizing its lane by adjusting traffic signals for unhindered passage. This lane prioritization minimizes delays and enhances emergency re-sponse efficiency. The combination of audio-visual detection and dynamic lane prioritization showcases the work’s practicality and positive impact on urban safety. The result is a system that optimizes traffic flow and contributes to saving lives during emergencies. As urban environments grow more complex, the pro-posed systems’s ability to detect and prioritize emergency vehicles represents an innovative stride toward smarter and safer cities.
+
+
+![image](https://github.com/anuvindmp/Intelligent-traffic-control-system/assets/112715229/6fb87e78-9586-42c2-90cf-4577df3c1eb5)
+
+![image](https://github.com/anuvindmp/Intelligent-traffic-control-system/assets/112715229/3368ee2b-63c9-46ec-96b8-86e7ae554bed)
+
